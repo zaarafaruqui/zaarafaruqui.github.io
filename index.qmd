@@ -1,16 +1,16 @@
 ---
-title: "[Zaara Faruqui]"
+title: "Zaara Faruqui"
 ---
 
-## About
+## Introduction
 
-
-[Hello! My name is Zaara Faruqui and I am a 4th-year student at the University of Waterloo, studying Psychology and minoring in Legal Studies.]
+Hello! My name is Zaara Faruqui and I am a 4th-year student at the University of Waterloo, studying Psychology and minoring in Legal Studies.
 
 ## Research Interests
 
-[I am interested in various areas of psychology, especially clinical, developmental, and social psychology.]
+I am interested in various areas of psychology, especially clinical, behavioural, personality, and social psychology.
 
 ## Contact
 
-[My Linkedin: www.linkedin.com/in/zaara-faruqui-19248b3aa]
+My Linkedin: www.linkedin.com/in/zaara-faruqui-19248b3aa
+Email: z2faruqu@uwaterloo.ca
