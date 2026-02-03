@@ -1,0 +1,14 @@
+---
+title: "My Second Blog Post: hey"
+author: "Zaara Faruqui"
+date: 2026-02-02
+categories: [Updates]
+draft: false
+format:
+  html:
+    toc: false
+---
+
+# My Second Post
+
+girl idk what this is
