@@ -4,7 +4,7 @@ title: "About"
 
 Welcome to my website!
 
-![My Picture](zaarawebsite.png.jpg)
+![My Picture](zaarawebsite.png.jpg){ width=300px }
 
 My name is Zaara Faruqui, and I am a student at the University of Waterloo. I am currently in my fourth year, majoring in Honours Psychology with a minor in Legal Studies.
 
