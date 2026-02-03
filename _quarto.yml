@@ -13,6 +13,12 @@ website:
       - href: blog/
         text: Blog
 
+collections:
+  blog:
+    type: posts
+    path: blog
+    sort: date
+
 format:
   html:
     theme:
@@ -20,10 +26,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-collections:
-  blog:
-    type: posts
-    path: blog
-    sort: date
-

@@ -1,0 +1,10 @@
+---
+title: "Blog"
+author: "Zaara Faruqui"
+date: 2026-02-02
+format:
+  html:
+    toc: false
+---
+::: {.blog}
+:::

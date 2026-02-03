@@ -1,5 +1,5 @@
 ---
-title: "My First-Ever Blog Post: Who Am I"
+title: "My First-Ever Blog Post: Coming to Canada"
 author: "Zaara Faruqui"
 date: 2026-02-02
 categories: [Updates, Personal]
