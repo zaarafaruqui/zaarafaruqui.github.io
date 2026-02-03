@@ -1,0 +1,9 @@
+---
+title: "My GitHub Pages Website"
+format: html
+---
+## My Website
+
+this is the link to my website:
+
+[https://zaarafaruqui.github.io](https://zaarafaruqui.github.io)
