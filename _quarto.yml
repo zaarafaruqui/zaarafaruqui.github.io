@@ -21,5 +21,9 @@ format:
     css: styles.css
     toc: true
 
-
+collections:
+  blog:
+    type: posts
+    path: blog
+    sort: date
 
