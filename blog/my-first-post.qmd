@@ -1,15 +1,15 @@
 ---
-title: "My First-Ever Blog Post: Coming to Canada"
+title: "My First Blog Post: Coming to Canada"
 author: "Zaara Faruqui"
 date: 2026-02-02
-categories: [Updates, Personal]
+categories: [Updates]
 draft: false
 format:
   html:
     toc: false
 ---
 
-# Welcome to my first post
+# My First Post
 
 
 ![Me with my Saudi friends](../saudifriends.jpg){ width=300px }
@@ -29,3 +29,4 @@ It wasn’t until I moved from Brampton to Mississauga that I realized I had bee
 
 Fourteen years later, I feel like I have truly become Canadian, while still embracing my Saudi and Indian roots. As a student at the University of Waterloo, I really appreciate how inclusive it is and how many people come from different places. Through my classes, I have met students who are experiencing the same challenges I faced when I first arrived, which brings me back to how I felt in the beginning. It really frustrates me to see the negativity aimed at international students and immigrants. My family and I came to Canada to build a better life, and fortunately, we were able to do so. Everyone deserves the chance to do the same and pursue what is best for them. I hope that as time goes by, people become more accepting of each other and we can all live together peacefully while embracing our diversity.
 ![Me with my UW friends](../meandunifriends.jpg){ width=300px }
+---
