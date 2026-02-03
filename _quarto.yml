@@ -13,7 +13,7 @@ website:
 format:
   html:
     theme:
-      - quartz
+      - darkly
       - brand
     css: styles.css
     toc: true
