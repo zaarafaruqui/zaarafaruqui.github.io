@@ -10,7 +10,7 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: blog/index.qmd
+      - href: blog/index.html
         text: Blog
 
 collections:
