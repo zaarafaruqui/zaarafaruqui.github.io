@@ -11,4 +11,30 @@ format:
 
 # My Third Post
 
-Hey guys! I just wanted to show you the Lollipop Chart I made for our quarto, code, and r assignment!: [Lollipop Chart](../newggplot.html)
+Hey guys! I just wanted to show you the Lollipop Chart I made for our quarto, code, and r assignment! From the ggplot examples, I chose the lollipop chart. Here is the link: [Lollipop Chart Link](https://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#Lollipop%20Chart)
+
+```{r}
+#| code-fold: true
+#| code-summary: "Show the code"
+
+library(ggplot2)
+theme_set(theme_bw())
+
+
+cty_mpg <- data.frame(
+  make = c("Chevrolet", "Audi", "Toyota", "Honda"),
+  mileage = c(15, 17.5, 18, 24)
+)
+
+ggplot(cty_mpg, aes(x = make, y = mileage)) + 
+  geom_point(size = 3) + 
+  geom_segment(aes(x = make,
+                   xend = make,
+                   y = 0,
+                   yend = mileage)) + 
+  labs(title = "Lollipop Chart", 
+       subtitle = "Make Vs Avg. Mileage", 
+       caption = "source: mpg") + 
+  theme(axis.text.x = element_text(angle = 65, vjust = 0.6))
+```
+
