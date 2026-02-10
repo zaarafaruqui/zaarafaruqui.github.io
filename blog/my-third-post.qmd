@@ -11,4 +11,4 @@ format:
 
 # My Third Post
 
-Hey guys! I just wanted to show you the Lollipop Chart I made for our quarto, code, and r assignment!: [Lollipop Chart](file://wsl.localhost/Ubuntu/home/faruq/PSYCH390Desktop/newggplot.html)
+Hey guys! I just wanted to show you the Lollipop Chart I made for our quarto, code, and r assignment!: [Lollipop Chart](../newggplot.html)
